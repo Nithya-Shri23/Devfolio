@@ -6,6 +6,8 @@ Responsive Design: Built using Bootstrap, the layout automatically adjusts for d
 Interactive Elements: JavaScript is used to add dynamic components such as a smooth scroll, image sliders, and form validation.
 Modern UI: The design is clean and user-friendly, showcasing my projects, skills, and contact information.
 Cross-browser Compatibility: Ensures that the portfolio looks great on all major browsers.
+
+
 Technologies Used:
 HTML5
 CSS3
